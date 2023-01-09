@@ -244,28 +244,26 @@ p{
 }
 
 @media screen and (max-width: 1000px){
+body{
+  background-color: black;
+}
 
 .mapouter{
   position: relative;
-  right : 50%;
+  right : 55%;
   margin-bottom: 8%;
-}
-
-#bukpel img{
-  height: 70%;
-}
-
-.sda p{
-  position: relative;
-  left: 20%;
-  color: black;
 }
 
 .pot p{
   position: relative;
-  left: 20%;
+  left: 0%;
 }
 
+.ucd img{
+  margin-top: 15%;
+  position: relative;
+  right: 40%;
+}
 }
 
 @media screen and (max-width: 800px){
@@ -274,11 +272,4 @@ p{
   position: relative;
   right : 80%;
   margin-bottom: 8%;
-}
-
-#bukpel img{
-  height: 40%;
-}
-
-
-}
+}}
