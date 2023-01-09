@@ -244,9 +244,9 @@ p{
 }
 
 @media screen and (max-width: 1000px){
-body{
+/* body{
   background-color: black;
-}
+} */
 
 .mapouter{
   position: relative;
@@ -257,6 +257,10 @@ body{
 .pot p{
   position: relative;
   left: 0%;
+}
+
+.ucd{
+  background-color: white;
 }
 
 .ucd img{
